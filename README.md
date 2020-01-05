@@ -1,0 +1,4 @@
+- Configuration.h --> currently running configuration on my printer
+- Configuration_default.h --> default configuration for Anet A8, provided by Marlin
+- Diff the two files to find out what was changed
+- Marlin version used: 2.0.0
